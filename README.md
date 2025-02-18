@@ -1,6 +1,8 @@
 ## 👨‍💻 Über mich  
 Ich habe einen **Bachelor in IT-Sicherheit** und arbeite derzeit im **technischen Helpdesk**. Mein Ziel ist es, meine **praktischen Fähigkeiten in Cybersecurity** weiterzuentwickeln – insbesondere in den Bereichen **Offensive Security, Incident Response und Netzwerksicherheit**. Durch meine Projekte möchte ich praxisnah lernen und meine Kenntnisse vertiefen.  
 
+Ich bin **nicht der beste Programmierer**, aber ich gebe mein Bestes! Mein Ziel ist es, dass **der Code funktioniert**, auch wenn er vielleicht nicht der schönste ist. 😆  
+
 ## 🏅 Zertifikate  
 - ⏳ **CompTIA Network+** (90%)  
 - ⏳ **CompTIA Security+** (5%)  
