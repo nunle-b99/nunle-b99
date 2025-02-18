@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hallo, ich bin Phat! <br/></h1>
 
-<!--
-**nunle-b99/nunle-b99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber Security Projekte:</h2>
 
-Here are some ideas to get you started:
+- <b>Red Team</b>
+  - [C2Server](https://github.com/joshmadakor1/Algorithms-Practice)
+    - C2Server + Screenshot maker
+    - Reverse Shell
+    - Webserver
+- <b>Blueteam</b>
+  - [Homelab](https://github.com/nunle-b99/Learning-Curve---Cybersecurity/tree/main/Blueteam/Homelab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunle-b99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2> 🤳 Connect with me:</h2>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hoai-phat-huynh-69026a232/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
