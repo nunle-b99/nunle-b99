@@ -1,21 +1,30 @@
-<h1>Hallo, ich bin Phat! <br/></h1>
+## 👨‍💻 Über mich  
+Ich habe einen **Bachelor in IT-Sicherheit** und arbeite derzeit im **technischen Helpdesk**. Mein Ziel ist es, meine **praktischen Fähigkeiten in Cybersecurity** weiterzuentwickeln – insbesondere in den Bereichen **Offensive Security, Incident Response und Netzwerksicherheit**. Durch meine Projekte möchte ich praxisnah lernen und meine Kenntnisse vertiefen.  
 
-<h2>👨‍💻 Cyber Security Projekte:</h2>
+## 🏅 Zertifikate  
+- **CompTIA Network+** (90%)  
+- **CompTIA Security+** (5%)  
 
-- <b>Red Team</b>
-  - [C2Server](https://github.com/joshmadakor1/Algorithms-Practice)
-    - C2Server + Screenshot maker
-    - Reverse Shell
-    - Webserver
-- <b>Blueteam</b>
-  - [Homelab](https://github.com/nunle-b99/Learning-Curve---Cybersecurity/tree/main/Blueteam/Homelab)
+## 🔥 Projekte  
+### **🔴 Red Team**  
+- ✅ **C2Server** – Implementierung eines C2-Servers mit Reverse Shell & Screenshot-Funktion  
+- ✅ **IPScan in Batch** – Automatisierter Netzwerk-Scanner mit Batch  
+- ✅ **Reverse Shell** – Entwicklung und Test einer Reverse Shell  
+- ⏳ **Wifi-Jammer** – (Erledigt | Dokumentation fehlt)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunle-b99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### **🔵 Blue Team**  
+- 🔍 **HTB SOC Analyst Career Path** – Hands-on Training für Security Operations  
+- 🏠 **Homelab** – Aufbau einer sicheren Netzwerkumgebung mit pfSense  
 
-<h2> 🤳 Connect with me:</h2>
+## 📊 Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunle-b99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+## 📌 Disclaimer  
+Dieses Repository dient ausschließlich **Bildungszwecken im Bereich IT-Sicherheit**. Die Inhalte sind nicht für illegale oder unethische Zwecke bestimmt. Die Nutzung erfolgt auf eigene Gefahr. **Ich übernehme keine Haftung für Schäden, die durch die Verwendung entstehen.** Bitte beachten Sie alle geltenden gesetzlichen Vorschriften.  
+
+## 🤳 Connect with me  
 <div id="badges">
   <a href="https://www.linkedin.com/in/hoai-phat-huynh-69026a232/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
